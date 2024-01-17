@@ -1,0 +1,31 @@
+fields:
+    pickup:
+        label: 'Data wypożyczenia'
+        mode: datetime
+        span: auto
+        type: datepicker
+    dropoff:
+        label: 'Data zwrotu'
+        mode: datetime
+        span: auto
+        type: datepicker
+    user:
+        label: 'Użytkownik rezerwujący'
+        nameFrom: name
+        descriptionFrom: description
+        span: auto
+        type: relation
+    bikes:
+        label: Rower
+        nameFrom: name
+        descriptionFrom: description
+        span: auto
+        type: relation
+    price:
+        label: Cena
+        span: auto
+        type: number
+    returned:
+        label: Zwrócony
+        span: auto
+        type: switch

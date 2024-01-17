@@ -1,0 +1,28 @@
+plugin:
+    name: 'natanielmarmucki.rentalbike::lang.plugin.name'
+    description: 'natanielmarmucki.rentalbike::lang.plugin.description'
+    author: 'Nataniel Marmucki'
+    icon: oc-icon-bicycle
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Wypożyczalnia rowerów'
+        url: natanielmarmucki/rentalbike/bikes
+        icon: icon-bicycle
+        sideMenu:
+            side-menu-item:
+                label: Lokalizacje
+                url: natanielmarmucki/rentalbike/locations
+                icon: icon-home
+            side-menu-item3:
+                label: Rezerwacje
+                url: natanielmarmucki/rentalbike/reservations
+                icon: icon-ticket
+            side-menu-item2:
+                label: Typy
+                url: natanielmarmucki/rentalbike/types
+                icon: icon-th-large
+            Todo:
+                label: ToDos
+                url: natanielmarmucki/rentalbike/todo
+                icon: icon-th-list

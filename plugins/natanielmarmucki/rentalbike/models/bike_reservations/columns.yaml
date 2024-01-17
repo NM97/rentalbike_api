@@ -1,0 +1,7 @@
+columns:
+    bike_id:
+        label: Rower
+        type: number
+    reservation_id:
+        label: Rezerwacja
+        type: number

@@ -1,0 +1,20 @@
+fields:
+    name:
+        label: Nazwa
+        span: auto
+        type: text
+    description:
+        label: Opis
+        size: large
+        span: auto
+        type: textarea
+    status:
+        label: Status
+        span: auto
+        type: switch
+    user_id:
+        label: Relacja
+        nameFrom: id
+        descriptionFrom: description
+        span: auto
+        type: relation

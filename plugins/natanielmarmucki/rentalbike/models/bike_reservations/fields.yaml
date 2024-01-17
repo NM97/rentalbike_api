@@ -1,0 +1,13 @@
+fields:
+    bike:
+        label: Rower
+        nameFrom: name
+        descriptionFrom: description
+        span: auto
+        type: relation
+    reservation:
+        label: Rezerwacja
+        nameFrom: name
+        descriptionFrom: description
+        span: auto
+        type: relation

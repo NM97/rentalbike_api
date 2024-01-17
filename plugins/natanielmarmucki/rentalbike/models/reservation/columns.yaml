@@ -1,0 +1,17 @@
+columns:
+    pickup:
+        label: 'Data wypożyczenia'
+        type: datetime
+    dropoff:
+        label: 'Data zwrotu'
+        type: datetime
+    bike_id:
+        label: Rower
+        type: text
+        select: name
+        relation: bikes
+    user_id:
+        label: 'Użytkownik rezerwujący'
+        type: text
+        select: email
+        relation: user

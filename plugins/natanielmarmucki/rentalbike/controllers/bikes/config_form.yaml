@@ -1,0 +1,10 @@
+name: Bikes
+form: $/natanielmarmucki/rentalbike/models/bike/fields.yaml
+modelClass: NatanielMarmucki\Rentalbike\Models\Bike
+defaultRedirect: natanielmarmucki/rentalbike/bikes
+create:
+    redirect: 'natanielmarmucki/rentalbike/bikes/update/:id'
+    redirectClose: natanielmarmucki/rentalbike/bikes
+update:
+    redirect: natanielmarmucki/rentalbike/bikes
+    redirectClose: natanielmarmucki/rentalbike/bikes

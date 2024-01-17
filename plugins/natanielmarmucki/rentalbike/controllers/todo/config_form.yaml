@@ -1,0 +1,10 @@
+name: ToDo
+form: $/natanielmarmucki/rentalbike/models/todo/fields.yaml
+modelClass: NatanielMarmucki\Rentalbike\Models\ToDo
+defaultRedirect: natanielmarmucki/rentalbike/todo
+create:
+    redirect: 'natanielmarmucki/rentalbike/todo/update/:id'
+    redirectClose: natanielmarmucki/rentalbike/todo
+update:
+    redirect: natanielmarmucki/rentalbike/todo
+    redirectClose: natanielmarmucki/rentalbike/todo

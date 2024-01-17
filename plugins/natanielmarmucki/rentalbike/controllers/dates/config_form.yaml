@@ -1,0 +1,10 @@
+name: Dates
+form: $/natanielmarmucki/rentalbike/models/date/fields.yaml
+modelClass: NatanielMarmucki\Rentalbike\Models\Date
+defaultRedirect: natanielmarmucki/rentalbike/dates
+create:
+    redirect: 'natanielmarmucki/rentalbike/dates/update/:id'
+    redirectClose: natanielmarmucki/rentalbike/dates
+update:
+    redirect: natanielmarmucki/rentalbike/dates
+    redirectClose: natanielmarmucki/rentalbike/dates

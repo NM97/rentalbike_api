@@ -1,0 +1,59 @@
+fields:
+    name:
+        label: Nazwa
+        span: auto
+        type: text
+    slug:
+        label: Identyfikator
+        span: auto
+        preset:
+            field: name
+            type: slug
+        type: text
+    description:
+        label: Opis
+        size: large
+        span: full
+        type: richeditor
+    locations:
+        label: Lokalizacje
+        nameFrom: name
+        descriptionFrom: description
+        span: auto
+        type: relation
+    price:
+        label: 'Cena za dzień'
+        span: auto
+        type: text
+    image:
+        label: 'Zdjęcie roweru'
+        mode: image
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: fileupload
+    available:
+        label: Dostępny
+        span: auto
+        default: 1
+        disabled: 0
+        required: 0
+        type: switch
+    reservations:
+        label: Rezerwacje
+        nameFrom: pickup
+        descriptionFrom: description
+        span: auto
+        type: relation
+    type:
+        label: Rodzaj
+        span: auto
+        type: number
+    types:
+        label: Typ
+        nameFrom: name
+        descriptionFrom: description
+        span: auto
+        type: relation

@@ -1,0 +1,107 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table natanielmarmucki_rentalbike_bikes'
+    - builder_table_create_natanielmarmucki_rentalbike_bikes.php
+1.0.3:
+    - 'Created table natanielmarmucki_rentalbike_locations'
+    - builder_table_create_natanielmarmucki_rentalbike_locations.php
+1.0.4:
+    - 'Updated table natanielmarmucki_rentalbike_bikes'
+    - builder_table_update_natanielmarmucki_rentalbike_bikes.php
+1.0.5:
+    - 'Updated table natanielmarmucki_rentalbike_bikes'
+    - builder_table_update_natanielmarmucki_rentalbike_bikes_2.php
+1.0.6:
+    - 'Updated table natanielmarmucki_rentalbike_bikes'
+    - builder_table_update_natanielmarmucki_rentalbike_bikes_3.php
+1.0.7:
+    - 'Updated table natanielmarmucki_rentalbike_bikes'
+    - builder_table_update_natanielmarmucki_rentalbike_bikes_4.php
+1.0.8:
+    - 'Created table natanielmarmucki_rentalbike_dates'
+    - builder_table_create_natanielmarmucki_rentalbike_dates.php
+1.0.9:
+    - 'Created table natanielmarmucki_rentalbike_bike_dates'
+    - builder_table_create_natanielmarmucki_rentalbike_bike_dates.php
+1.0.10:
+    - 'Updated table natanielmarmucki_rentalbike_bike_dates'
+    - builder_table_update_natanielmarmucki_rentalbike_bike_dates.php
+1.0.11:
+    - 'Created table natanielmarmucki_rentalbike_reservations'
+    - builder_table_create_natanielmarmucki_rentalbike_reservations.php
+1.0.12:
+    - 'Updated table natanielmarmucki_rentalbike_bike_dates'
+    - builder_table_update_natanielmarmucki_rentalbike_bike_dates_2.php
+1.0.13:
+    - 'Updated table natanielmarmucki_rentalbike_bike_dates'
+    - builder_table_update_natanielmarmucki_rentalbike_bike_reservations.php
+1.0.14:
+    - 'Updated table natanielmarmucki_rentalbike_reservations'
+    - builder_table_update_natanielmarmucki_rentalbike_reservations.php
+1.0.15:
+    - 'Updated table natanielmarmucki_rentalbike_reservations'
+    - builder_table_update_natanielmarmucki_rentalbike_reservations_2.php
+1.0.16:
+    - 'Updated table natanielmarmucki_rentalbike_reservations'
+    - builder_table_update_natanielmarmucki_rentalbike_reservations_3.php
+1.0.17:
+    - 'Updated table natanielmarmucki_rentalbike_locations'
+    - builder_table_update_natanielmarmucki_rentalbike_locations.php
+1.0.18:
+    - 'Updated table natanielmarmucki_rentalbike_dates'
+    - builder_table_update_natanielmarmucki_rentalbike_rental.php
+1.0.19:
+    - 'Updated table natanielmarmucki_rentalbike_rental'
+    - builder_table_update_natanielmarmucki_rentalbike_rental_2.php
+1.0.20:
+    - 'Updated table natanielmarmucki_rentalbike_rental'
+    - builder_table_update_natanielmarmucki_rentalbike_rental_3.php
+1.0.21:
+    - 'Created table natanielmarmucki_rentalbike_reservations_rental'
+    - builder_table_create_natanielmarmucki_rentalbike_reservations_rental.php
+1.0.22:
+    - 'Updated table natanielmarmucki_rentalbike_reservations'
+    - builder_table_update_natanielmarmucki_rentalbike_reservations_4.php
+1.0.23:
+    - 'Updated table natanielmarmucki_rentalbike_reservations'
+    - builder_table_update_natanielmarmucki_rentalbike_reservations_5.php
+1.0.24:
+    - 'Updated table natanielmarmucki_rentalbike_rental'
+    - builder_table_update_natanielmarmucki_rentalbike_rental_4.php
+1.0.25:
+    - 'Updated table natanielmarmucki_rentalbike_rental'
+    - builder_table_update_natanielmarmucki_rentalbike_rental_5.php
+1.0.26:
+    - 'Drop table natanielmarmucki_rentalbike_rental'
+    - builder_table_delete_natanielmarmucki_rentalbike_rental.php
+1.0.27:
+    - 'Drop table natanielmarmucki_rentalbike_reservations_rental'
+    - builder_table_delete_natanielmarmucki_rentalbike_reservations_rental.php
+1.0.28:
+    - 'Updated table natanielmarmucki_rentalbike_bikes'
+    - builder_table_update_natanielmarmucki_rentalbike_bikes_5.php
+1.0.29:
+    - 'Updated table natanielmarmucki_rentalbike_bikes'
+    - builder_table_update_natanielmarmucki_rentalbike_bikes_6.php
+1.0.30:
+    - 'Created table natanielmarmucki_rentalbike_types'
+    - builder_table_create_natanielmarmucki_rentalbike_types.php
+1.0.31:
+    - 'Created table natanielmarmucki_rentalbike_'
+    - builder_table_create_natanielmarmucki_rentalbike_.php
+1.0.32:
+    - 'Updated table natanielmarmucki_rentalbike_types'
+    - builder_table_update_natanielmarmucki_rentalbike_types.php
+1.0.33:
+    - 'Updated table natanielmarmucki_rentalbike_'
+    - builder_table_update_natanielmarmucki_rentalbike_bike_types.php
+1.0.34:
+    - 'Created table natanielmarmucki_rentalbike_todo'
+    - builder_table_create_natanielmarmucki_rentalbike_todo.php
+1.0.35:
+    - 'Updated table natanielmarmucki_rentalbike_todo'
+    - builder_table_update_natanielmarmucki_rentalbike_todo.php
+1.0.36:
+    - 'Updated table natanielmarmucki_rentalbike_todo'
+    - builder_table_update_natanielmarmucki_rentalbike_todo_2.php

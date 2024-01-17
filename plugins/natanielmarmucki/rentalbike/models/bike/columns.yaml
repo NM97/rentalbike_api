@@ -1,0 +1,9 @@
+columns:
+    name:
+        label: Nazwa
+        type: text
+        searchable: true
+        sortable: true
+    available:
+        label: Dostępny
+        type: switch
